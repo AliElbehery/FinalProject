@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-l)t(py^bmcjakjg=11uoxhst@qqvd_w!xnh=w&vgdv@z+2#jk1
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'finalproject-xjo3.onrender.com',
-    'www.finalproject-xjo3.onrender.com',
+    'finalproject-2htx.onrender.com',
+    'www.finalproject-2htx.onrender.com',
     ]
 
 
