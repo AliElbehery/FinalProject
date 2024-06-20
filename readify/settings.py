@@ -25,6 +25,10 @@ SECRET_KEY = 'django-insecure-l)t(py^bmcjakjg=11uoxhst@qqvd_w!xnh=w&vgdv@z+2#jk1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://finalproject-2htx.onrender.com',
+]
+
 ALLOWED_HOSTS = [
     'finalproject-2htx.onrender.com',
     'www.finalproject-2htx.onrender.com',
